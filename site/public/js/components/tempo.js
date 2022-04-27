@@ -15,7 +15,7 @@ export class Tempo extends MBComponent {
 
     // Constants
     this.MIN = 50;
-    this.MAX = 180;
+    this.MAX = 720;
   }
 
   render() {
